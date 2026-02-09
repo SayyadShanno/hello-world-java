@@ -28,16 +28,16 @@
 		</dependency>
 	</dependencies>
     
-	<!--<distributionManagement>
+	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://65.0.128.218:8081/repository/hello-world-java/</url>
+			<url>http://43.205.123.172:8081/repository/HelloWorldJava-Release/</url> 
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://65.0.128.218:8081/repository/hello-world-java-snapshot/</url>
+			<url>http://43.205.123.172:8081/repository/HelloWorldJava-Snapshots/</url>
 		</snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement>
 
 	<build>
 		<plugins>
